@@ -8,11 +8,11 @@ A collection of JavaScript algorithms and data structures implementation. includ
 3- `Queues/queue.js` The sixth example is a queue class in JavaScript. A queue is a data structure that follows the first-in, first-out (FIFO) principle. It has methods for enqueuing (adding) elements to the end of the queue, dequeuing (removing) elements from the front of the queue, and accessing the front element without removing it. 
 
 
-4- `Recursion/recuesion.js` This is an example of function that uses recursion to calculate the factorial of a given number. It does this by calling itself with a modified version of the original input until the base case (in this example, when the input is 1) is reached, at which point it returns the result.
+4- `Recursion/recursion.js` This is an example of function that uses recursion to calculate the factorial of a given number. It does this by calling itself with a modified version of the original input until the base case (in this example, when the input is 1) is reached, at which point it returns the result.
 
 5 - `Searching/linear-search.js` The second example is a search algorithm in JavaScript called linear search. It searches for a target value in an array by iterating through the array and comparing each element to the target. If the element is found, the function returns the index at which it was found. If the element is not found, the function returns -1. Linear search is a simple search algorithm, but it can be inefficient for large arrays because it has to check every element in the array.
 
-5 - `Searching/depth-first-search.js` The third example is a graph algorithm in JavaScript called depth-first search. It searches through the nodes of a graph, starting at a specified start node. It uses a stack to keep track of the nodes that have been visited and adds the neighbors of the current node to the stack. The function continues until there are no more nodes in the stack.
+ `Searching/depth-first-search.js` The third example is a graph algorithm in JavaScript called depth-first search. It searches through the nodes of a graph, starting at a specified start node. It uses a stack to keep track of the nodes that have been visited and adds the neighbors of the current node to the stack. The function continues until there are no more nodes in the stack.
 
 
 6- `Sorting/bubble-sort.js`The first example is a sorting algorithm in JavaScript called bubble sort. It sorts an array in ascending order by repeatedly iterating through the array and swapping adjacent elements if they are in the wrong order. The function continues to iterate until the array is sorted.
